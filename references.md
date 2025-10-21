@@ -1,3 +1,3 @@
-# References
-
-* octocat 1 😈
+## References
+Dr. Jason Fleischer
+Email: jfleischer@ucsd.edu
